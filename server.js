@@ -17,6 +17,7 @@ app.get('/', (req, res)=> {
       <head>
         <title>Mount Vernon Hall of Fame</title>
         <link rel='stylesheet' href='/styles.css' />
+        <script src='/app.js'></script>
       </head>
       <body>
         <h1>Mount Vernon Hall of Fame</h1>
